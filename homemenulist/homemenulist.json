@@ -1,6 +1,6 @@
 {
   "homeMenuList": [
-    "noticeList",
+    "notices",
     "banner1",
     "weDelivery",
     "myIceBox",
@@ -10,8 +10,8 @@
     "cardGroup",
     "banner2",
     "gridGroup",
-    "DailyEvent",
+    "dailyEvent",
     "banner3",
-    "bottomSizeBox"
+    "bottomSpace"
   ]
 }
