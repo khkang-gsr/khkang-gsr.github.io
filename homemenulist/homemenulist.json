@@ -35,27 +35,27 @@
     "visible":true
   },
   {
-    "name":"horizontalCardGroup",
+    "name":"horizontalCardGroup",
     "desc": "원플러스콘, 상품권, 택배상품",
     "visible":true
   },
   {
-    "name":"banner2",
+    "name":"banner2",
     "desc": "홈화면 중간, 가장 큰 배너",
     "visible":true
   },
   {
-    "name":"gridCardGroup",
-    "desc": "선물하기, 매장 찾기, 택배, 이벤트",
+    "name":"gridCardGroup",
+    "desc": "선물하기, 매장 찾기, 택배, 이벤트",
     "visible":true
   },
   {
-    "name":"dailyEvent",
+    "name":"dailyEvent",
     "desc": "출석체크, 스탬프, 룰렛 이벤트",
     "visible":true
   },
   {
-    "name":"banner3",
+    "name":"banner3",
     "desc": "홈화면 아래, 중간 사이즈 배너",
     "visible":true
   }
