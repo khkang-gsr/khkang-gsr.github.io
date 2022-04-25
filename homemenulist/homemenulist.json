@@ -1,17 +1,17 @@
 {
-  "homemenulist": [
-    "notice",
+  "homeMenuList": [
+    "notices",
     "banner1",
-    "delivery",
-    "icebox",
-    "wine",
-    "reserve",
+    "weDelivery",
+    "myIceBox",
+    "wine25",
+    "preOrder",
     "gsthefresh",
-    "cardMenu",
+    "horizontalCardGroup",
     "banner2",
-    "gridService",
-    "templateEvent",
+    "gridCardGroup",
+    "dailyEvent",
     "banner3",
-    "sizebox"
+    "sample"
   ]
 }
