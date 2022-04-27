@@ -1,5 +1,10 @@
 [
   {
+    "name":"gridCardGroup",
+    "desc": "선물하기, 매장 찾기, 택배, 이벤트",
+    "visible":true
+  },
+  {
     "name":"horizontalCardGroup",
     "desc": "원플러스콘, 상품권, 택배상품",
     "visible":true
@@ -17,6 +22,11 @@
   {
     "name":"weDelivery",
     "desc": "우리동네 딜리버리",
+    "visible":true
+  },
+  {
+    "name":"gridCardGroup",
+    "desc": "선물하기, 매장 찾기, 택배, 이벤트",
     "visible":true
   },
   {
