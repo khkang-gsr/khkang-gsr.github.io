@@ -1,5 +1,10 @@
 [
   {
+    "name":"weDelivery",
+    "desc": "우리동네 딜리버리",
+    "visible":true
+  },
+  {
     "name":"myIceBox",
     "desc": "나만의 냉장고",
     "visible":true
