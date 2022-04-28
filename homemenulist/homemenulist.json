@@ -25,6 +25,11 @@
     "visible":true
   },
   {
+    "name":"subscribe",
+    "desc": "우리동네 GS 구독",
+    "visible":true
+  },
+  {
     "name":"preOrder",
     "desc": "사전예약",
     "visible":true
